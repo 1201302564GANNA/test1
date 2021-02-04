@@ -43,7 +43,7 @@ void test1()
 // the results are stored in poss
 //
 void checkPositions(const string& secret,char guess, 
-                    vector<int>& poss)
+                    vector<int>& poss)حتةنةمكنط
 {
     poss.clear();
     int len = secret.length(); // number of chars in the string
